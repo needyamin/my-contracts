@@ -1,0 +1,67 @@
+body{background:skyblue;font-family:Comic Sans MS;}
+
+#top{
+background-color:orange; 
+width:700;
+border:2px solid black;
+margin:0 auto;
+text-align:center;
+}
+
+#imgh{float:left;
+ margin-left:95px;
+ margin-top:95px;}
+
+
+
+#m{
+background-color:green;
+width:700;
+margin:0 auto;
+border:2px solid black;
+text-align:center;
+}
+
+
+#m a:link{
+color:pink;
+}
+
+#my{
+	clear:both;
+	float:left;
+	padding:20px;
+	margin-top:40px;
+}
+.mcontent{
+width:700;
+height:500;
+margin:0 auto;
+text-align:center;
+}
+
+
+
+#mshow{
+background-color:green;
+width:700;
+margin:0 auto;
+border:2px solid black;
+text-align:center;
+}
+
+.mcontentshow{
+width:700;
+margin:0 auto;
+text-align:center;
+padding-top:10px;
+}
+
+
+footer{
+background-color:orange; 
+width:700;
+border:2px solid black;
+margin:0 auto;
+text-align:center;
+}
